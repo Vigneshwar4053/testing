@@ -1,6 +1,6 @@
 # 📦 Pull Requests Guide
 
-## What is a Pull Request?
+## What is a Pull Request in Github?
 
 A **Pull Request (PR)** is a way to propose changes to a repository. When you open a pull request, you're requesting that someone reviews and merges your changes into the main project.
 
